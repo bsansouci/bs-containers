@@ -11,16 +11,11 @@
             "subdirs": [
                 {
                     "dir": "core",
-                    "public": "none"
                 },
                 {
                     "dir": "types",
-                    "public": "none"
                 }
             ],
-            "public": [
-                "Containers"
-            ]
         },
         {
             "dir": "tests",
